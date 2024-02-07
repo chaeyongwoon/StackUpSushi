@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: adb2de76d5ee94da7bb47a4aec332d5e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7118448670507266817
+    second: sushi salmon|Cube.001Action
+  - first:
+      74: -1219392119027440228
+    second: sushi salmon|Cube.002Action
+  - first:
+      74: 6381397335040328159
+    second: sushi salmon|Cube.003Action
+  - first:
+      74: 6671763092613733226
+    second: sushi salmon|Cube.004Action
+  - first:
+      74: -2230364207179404141
+    second: sushi salmon|Cube.005Action
+  - first:
+      74: 5448124602266714381
+    second: sushi salmon|Cube.006Action
+  - first:
+      74: 4164894496215830030
+    second: sushi salmon|Cube.010Action
+  - first:
+      74: 1968276626680568610
+    second: sushi salmon|CubeAction
+  - first:
+      74: 4305068688500788099
+    second: sushi salmon|CylinderAction
+  - first:
+      74: 2763696468363038157
+    second: sushi salmon|SphereAction
+  - first:
+      74: 8006820007278444975
+    second: sushi eel|Cube.001Action
+  - first:
+      74: -1219928092137964505
+    second: sushi eel|Cube.002Action
+  - first:
+      74: -7182257513882177994
+    second: sushi eel|Cube.003Action
+  - first:
+      74: 6808367264555215347
+    second: sushi eel|Cube.004Action
+  - first:
+      74: 3416605847167010055
+    second: sushi eel|Cube.005Action
+  - first:
+      74: -8236629093162850057
+    second: sushi eel|Cube.006Action
+  - first:
+      74: -5050312075462441336
+    second: sushi eel|Cube.010Action
+  - first:
+      74: 7288485266861422360
+    second: sushi eel|CubeAction
+  - first:
+      74: -5787675535650494962
+    second: sushi eel|CylinderAction
+  - first:
+      74: -2930727628130395992
+    second: sushi eel|SphereAction
+  - first:
+      74: -5553595562383680175
+    second: sushi clam|Cube.001Action
+  - first:
+      74: 1568402003135705415
+    second: sushi clam|Cube.002Action
+  - first:
+      74: -4683546576913406860
+    second: sushi clam|Cube.003Action
+  - first:
+      74: 2742191217244199882
+    second: sushi clam|Cube.004Action
+  - first:
+      74: -915918996796135301
+    second: sushi clam|Cube.005Action
+  - first:
+      74: 2694968263315657870
+    second: sushi clam|Cube.006Action
+  - first:
+      74: 2259788770520135967
+    second: sushi clam|Cube.010Action
+  - first:
+      74: 4385568288378136885
+    second: sushi clam|CubeAction
+  - first:
+      74: 7334715930130023884
+    second: sushi clam|CylinderAction
+  - first:
+      74: 7548038568417863411
+    second: sushi clam|SphereAction
+  - first:
+      74: 1431158938713542657
+    second: sushi egg|Cube.001Action
+  - first:
+      74: -9220375951391859349
+    second: sushi egg|Cube.002Action
+  - first:
+      74: -5724833307648538743
+    second: sushi egg|Cube.003Action
+  - first:
+      74: 7122353707869415968
+    second: sushi egg|Cube.004Action
+  - first:
+      74: -3501429582042044292
+    second: sushi egg|Cube.005Action
+  - first:
+      74: 1036326799599237380
+    second: sushi egg|Cube.006Action
+  - first:
+      74: 6772930932385423223
+    second: sushi egg|Cube.010Action
+  - first:
+      74: -4257138547388337079
+    second: sushi egg|CubeAction
+  - first:
+      74: 1770889080484698304
+    second: sushi egg|CylinderAction
+  - first:
+      74: -8244091062114877169
+    second: sushi egg|SphereAction
+  - first:
+      74: -1845311217714382071
+    second: sushi shrimp|Cube.001Action
+  - first:
+      74: -7056172806668648726
+    second: sushi shrimp|Cube.002Action
+  - first:
+      74: -6436325226731533260
+    second: sushi shrimp|Cube.003Action
+  - first:
+      74: -4367104793424792811
+    second: sushi shrimp|Cube.004Action
+  - first:
+      74: -3542277146875615617
+    second: sushi shrimp|Cube.005Action
+  - first:
+      74: -1523356382590525792
+    second: sushi shrimp|Cube.006Action
+  - first:
+      74: -6059750153620175536
+    second: sushi shrimp|Cube.010Action
+  - first:
+      74: -2653487107259801391
+    second: sushi shrimp|CubeAction
+  - first:
+      74: -2423210168023628309
+    second: sushi shrimp|CylinderAction
+  - first:
+      74: -5974411996091737505
+    second: sushi shrimp|SphereAction
+  - first:
+      74: 2297735252938669748
+    second: sushi tuna|Cube.001Action
+  - first:
+      74: 1032629874811242949
+    second: sushi tuna|Cube.002Action
+  - first:
+      74: 3460465534026340615
+    second: sushi tuna|Cube.003Action
+  - first:
+      74: -8243658902607410902
+    second: sushi tuna|Cube.004Action
+  - first:
+      74: -8678959490202499604
+    second: sushi tuna|Cube.005Action
+  - first:
+      74: 3617037970407707573
+    second: sushi tuna|Cube.006Action
+  - first:
+      74: 1237036102325462191
+    second: sushi tuna|Cube.010Action
+  - first:
+      74: 1631321269192571444
+    second: sushi tuna|CubeAction
+  - first:
+      74: 2595656528927642903
+    second: sushi tuna|CylinderAction
+  - first:
+      74: 2675792712294173088
+    second: sushi tuna|SphereAction
+  - first:
+      74: -280854238091459902
+    second: dish|Cube.001Action
+  - first:
+      74: 5960924384117553084
+    second: dish|Cube.002Action
+  - first:
+      74: 5311323204024925468
+    second: dish|Cube.003Action
+  - first:
+      74: 3188894682572777755
+    second: dish|Cube.004Action
+  - first:
+      74: -573291807551695718
+    second: dish|Cube.005Action
+  - first:
+      74: 372757338460409303
+    second: dish|Cube.006Action
+  - first:
+      74: -1637937007997704172
+    second: dish|Cube.010Action
+  - first:
+      74: 4544293369392400906
+    second: dish|CubeAction
+  - first:
+      74: 7415432732004330052
+    second: dish|CylinderAction
+  - first:
+      74: -6099323124720634748
+    second: dish|SphereAction
+  - first:
+      74: 678090998971533673
+    second: dish dirty|Cube.001Action
+  - first:
+      74: 8949962727409832095
+    second: dish dirty|Cube.002Action
+  - first:
+      74: 1860961221402915586
+    second: dish dirty|Cube.003Action
+  - first:
+      74: -1810086852390539084
+    second: dish dirty|Cube.004Action
+  - first:
+      74: 8583381990628373041
+    second: dish dirty|Cube.005Action
+  - first:
+      74: 2955204586262459900
+    second: dish dirty|Cube.006Action
+  - first:
+      74: -604779860340078358
+    second: dish dirty|Cube.010Action
+  - first:
+      74: 775247232697883157
+    second: dish dirty|CubeAction
+  - first:
+      74: 7787813804511035279
+    second: dish dirty|CylinderAction
+  - first:
+      74: -3068142905171104151
+    second: dish dirty|SphereAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC
+    second: {fileID: 2100000, guid: 7deff965c4a33422dbd7fbe23256bd0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dish color
+    second: {fileID: 2100000, guid: 183a2b95dafde4c17a9f08fb093425f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dish dirty
+    second: {fileID: 2100000, guid: 07cf19dadf4d0418fb5dd3591d2a020e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dish white
+    second: {fileID: 2100000, guid: ca26b1b5f0e7d4db689d75e615923804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rail
+    second: {fileID: 2100000, guid: 0cf23c6e9b2354cd1bd057db4dde6eb6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

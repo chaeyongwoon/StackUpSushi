@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "493537122499",
+    "project_id": "stack-up-shushi",
+    "storage_bucket": "stack-up-shushi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493537122499:android:224f4582d1e90048f36a76",
+        "android_client_info": {
+          "package_name": "com.mondayoff.shushi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493537122499-c0uvgahlnq1g694782ui9656qh1lri4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXj0xwHjh5cIlLpHP6EjAIH_Q6phLpyJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493537122499-c0uvgahlnq1g694782ui9656qh1lri4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493537122499-cbeqb83q03um4r0ebfhlkaqsf6lhutol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mondayoff.shushi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

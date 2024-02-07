@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">493537122499</string>
+  <string name="google_storage_bucket" translatable="false">stack-up-shushi.appspot.com</string>
+  <string name="project_id" translatable="false">stack-up-shushi</string>
+  <string name="google_api_key" translatable="false">AIzaSyCXj0xwHjh5cIlLpHP6EjAIH_Q6phLpyJU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCXj0xwHjh5cIlLpHP6EjAIH_Q6phLpyJU</string>
+  <string name="google_app_id" translatable="false">1:493537122499:android:224f4582d1e90048f36a76</string>
+  <string name="default_web_client_id" translatable="false">493537122499-c0uvgahlnq1g694782ui9656qh1lri4a.apps.googleusercontent.com</string>
+</resources>

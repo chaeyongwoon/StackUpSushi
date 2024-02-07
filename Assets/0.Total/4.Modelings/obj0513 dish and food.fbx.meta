@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: de6e9a8d542b0430eaaca1ca1d45a64d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7143857395565269054
+    second: sushi|Cube.001Action
+  - first:
+      74: 1679823126837967055
+    second: sushi|Cube.002Action
+  - first:
+      74: -8998537326667287017
+    second: sushi|Cube.003Action
+  - first:
+      74: -4175742131632748255
+    second: sushi|Cube.004Action
+  - first:
+      74: 940713307245945365
+    second: sushi|Cube.005Action
+  - first:
+      74: 678377831264533043
+    second: sushi|Cube.006Action
+  - first:
+      74: -6808762982180149685
+    second: sushi|Cube.010Action
+  - first:
+      74: 5884769662535872163
+    second: sushi|CubeAction
+  - first:
+      74: 2976261250014020249
+    second: sushi|CylinderAction
+  - first:
+      74: 2137882529717789996
+    second: sushi|SphereAction
+  - first:
+      74: 5567924180189453467
+    second: dish yellow|Cube.001Action
+  - first:
+      74: -1205715162576683011
+    second: dish yellow|Cube.002Action
+  - first:
+      74: -2702004574387095731
+    second: dish yellow|Cube.003Action
+  - first:
+      74: -1655516717176471579
+    second: dish yellow|Cube.004Action
+  - first:
+      74: -8306507901747684
+    second: dish yellow|Cube.005Action
+  - first:
+      74: -7771826904735648036
+    second: dish yellow|Cube.006Action
+  - first:
+      74: -3581007491474589408
+    second: dish yellow|Cube.010Action
+  - first:
+      74: 4826161521416662165
+    second: dish yellow|CubeAction
+  - first:
+      74: -51554465505677618
+    second: dish yellow|CylinderAction
+  - first:
+      74: 5482455134601335402
+    second: dish yellow|SphereAction
+  - first:
+      74: 1796391256987497186
+    second: dish green|Cube.001Action
+  - first:
+      74: 5231898762907919661
+    second: dish green|Cube.002Action
+  - first:
+      74: 3646194094400554088
+    second: dish green|Cube.003Action
+  - first:
+      74: -7129460721790594367
+    second: dish green|Cube.004Action
+  - first:
+      74: -7448224661357223884
+    second: dish green|Cube.005Action
+  - first:
+      74: -6105282431053219161
+    second: dish green|Cube.006Action
+  - first:
+      74: -2585633636506262064
+    second: dish green|Cube.010Action
+  - first:
+      74: -445725248404588138
+    second: dish green|CubeAction
+  - first:
+      74: -7337535876336536367
+    second: dish green|CylinderAction
+  - first:
+      74: -6285769163352643013
+    second: dish green|SphereAction
+  - first:
+      74: 7234696272734632267
+    second: dish red|Cube.001Action
+  - first:
+      74: -2962845565554301535
+    second: dish red|Cube.002Action
+  - first:
+      74: 8874277011654328090
+    second: dish red|Cube.003Action
+  - first:
+      74: -5466447328239437223
+    second: dish red|Cube.004Action
+  - first:
+      74: -4290424179815158808
+    second: dish red|Cube.005Action
+  - first:
+      74: 162183992139728712
+    second: dish red|Cube.006Action
+  - first:
+      74: -6212564000038292581
+    second: dish red|Cube.010Action
+  - first:
+      74: -2588464626512703470
+    second: dish red|CubeAction
+  - first:
+      74: 1630662297779219140
+    second: dish red|CylinderAction
+  - first:
+      74: 7418486538583801537
+    second: dish red|SphereAction
+  - first:
+      74: -53774509181443444
+    second: dish blue|Cube.001Action
+  - first:
+      74: 3886991656072345959
+    second: dish blue|Cube.002Action
+  - first:
+      74: 1917486737888865178
+    second: dish blue|Cube.003Action
+  - first:
+      74: -1990086887535857380
+    second: dish blue|Cube.004Action
+  - first:
+      74: 5937206462114216660
+    second: dish blue|Cube.005Action
+  - first:
+      74: 6786548904716452788
+    second: dish blue|Cube.006Action
+  - first:
+      74: 1935813963804611052
+    second: dish blue|Cube.010Action
+  - first:
+      74: 638384930665480137
+    second: dish blue|CubeAction
+  - first:
+      74: -5684324995161193041
+    second: dish blue|CylinderAction
+  - first:
+      74: 8771596557284556536
+    second: dish blue|SphereAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
